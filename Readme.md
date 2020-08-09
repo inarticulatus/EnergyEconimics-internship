@@ -8,7 +8,7 @@
 - [X] Renewable Energy Dependency
 - [ ] Previous Pandemic Data
 - [X] Quarterly data for GDP - last 10 years
-- [ ] Covid data
+- [X] Covid data
   - +ve Cases
   - Tests
   - Deaths
